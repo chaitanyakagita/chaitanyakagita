@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
- <img align="right" alt="Coding" width="290" height="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
+ <!--<img align="right" alt="Coding" width="290" height="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 <ul>
 <li>🔭 Currently studying Computer Science and Engineering at SRM University, Amaravati.<br></li>
