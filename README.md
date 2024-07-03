@@ -1,17 +1,19 @@
 ### Hi there 👋
 
 # 💫 About Me:
-<!-- <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
+ <img align="right" alt="Coding" width="290" height="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 <ul>
 <li>🔭 Currently studying Computer Science and Engineering at SRM University, Amaravati.<br></li>
+<li>🌱Exploring the depths of AI/ML and Full Stack Development<br></li>
 <li>🚀 Passionate about building innovative software solutions as a full stack developer.<br></li>
 <li>💡 Exploring advancements in AI/ML to integrate intelligent features into applications.<br></li>
 <li>🔍 Utilizing Python, C, C++, and DSA to solve complex programming challenges.<br></li>
 <li>💻 Specializing in software development with proficiency in Python, C, C++, and data structures.<br></li>
 <li>📊 Applying expertise in full stack development to create robust and scalable web applications.<br></li>
-<li>🌐 Showcasing achievements and projects on <a href="https://chaitanyakagita.github.io/Portfolio/portfolio/" target="_blank" color="white" text-decoration="underline">MyPortfolio</a>, providing a glimpse into my coding journey.</li>
+<li>🌐 Showcasing achievements and projects on <a href="https://chaitanyakagita.github.io/Portfolio/portfolio/" target="_blank" color="white" text-decoration="underline">MyPortfolio</a>, a glimpse into my coding journey.</li>
 </ul>
+
 
 <hr>
 
